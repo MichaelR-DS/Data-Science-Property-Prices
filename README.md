@@ -5,6 +5,22 @@
 * Extracted a feature from property descriptions
 * Built a LinearRegression model using pipelines
 
+Python version == 3.6
+# Libraries
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* plotly
+* scrapy
+* nltk
+* xgboost
+
+# Special Thanks
+This project was my first time performing web scraping and using nltk. The following resources were of particular help:
+* [youtube tutorial on nltk](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&ab_channel=sentdex)
+* 
+
 ## Web Scraping With Scrapy:
 Scraped the following data from each listing:
 * price
