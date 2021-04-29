@@ -55,7 +55,7 @@ Ultimately this new feature didn’t appear to be correlated with the price so  
 * Created count plots of categorical variables 
 * Created contingency tables for each pair of categorical features and performed chi squared relationship tests between these features
 Highlights:
-![](/Desktop/DS/house_price_proj/property_price_dist.png)
+![property_price_distribution](/Desktop/DS/house_price_proj/property_price_dist.png)
 ![](/Desktop/DS/house_price_proj/property_tags_vs_price.png)
 ![](/Desktop/DS/house_price_proj/property_type_dist.png)
 Format: ![Alt Text](url)
