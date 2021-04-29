@@ -20,6 +20,7 @@ Python version == 3.6
 This project was my first time performing web scraping and using nltk. The following resources were of particular help:
 
 * [youtube tutorial on nltk](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&ab_channel=sentdex)
+* [chrome extension which made grabbing XPath queries easier](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=en-GB)
 
 ## Web Scraping With Scrapy:
 Scraped the following data from each listing:
