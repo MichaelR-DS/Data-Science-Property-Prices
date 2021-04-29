@@ -49,6 +49,10 @@ I aimed to only include words which were property-amenities such as ‘garden’
 * calculated the sum of tf_idf values for each description in the corpus, determining which descriptions were 
 Ultimately this new feature didn’t appear to be correlated with the price so  it was dropped, but the insight gained lead to a much simpler ‘tags’ feature which was implemented into the final model.
 * created a ‘tag’ feature based on key words in the description
+Here are the word frequencies before and after applying stop words:
+![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/word_freq.png)
+![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/word_freq_post_cleanup.png)
+
 
 ## Data Analysis
 * Compared features with the target variable, price
@@ -56,9 +60,8 @@ Ultimately this new feature didn’t appear to be correlated with the price so  
 * Created contingency tables for each pair of categorical features and performed chi squared relationship tests between these features
 Highlights:
 ![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_price_dist.png)
-![alt text](/Desktop/DS/house_price_proj/property_tags_vs_price.png)
-![alt text](/Desktop/DS/house_price_proj/property_type_dist.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_tags_vs_price.png)
+![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_type_dist.png)
 
 ## Feature Importance
 As an aside to general data analysis, I explored the importance of each feature by using a decision tree and ranked them accordingly.
