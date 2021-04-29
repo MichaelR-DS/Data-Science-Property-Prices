@@ -73,6 +73,8 @@ I trained three different models using cross validation:
 * Linear Regression: baseline model
 * XGB Regression
 * Lasso Regression
+
+## Model Performances
 The XGBRegressor model had the lowest MAE overall:
 * Linear Regressor average MAE: 2260.44
 * Lasso Regressor average MAE: 2255.49
