@@ -58,7 +58,7 @@ Here are the word frequencies before and after applying stop words:
 * Compared features with the target variable, price
 * Created count plots of categorical variables 
 * Created contingency tables for each pair of categorical features and performed chi squared relationship tests between these features
-Highlights:
+The first plot is the distribution of prices, the second is the property 'tags' vs the price and the third plot is the distribution of property types:
 ![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_price_dist.png)
 ![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_tags_vs_price.png)
 ![alt text](https://github.com/MichaelR-DS/Data-Science-Property-Prices/blob/main/Images/property_type_dist.png)
